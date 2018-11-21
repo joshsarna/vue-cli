@@ -11,7 +11,7 @@ import Home from './Home.vue'
 //   template: '<p>Server Status: {{ status }}</p>'
 // }
 
-Vue.component('app-server-status', Home)
+Vue.component('app-servers', Home)
 
 new Vue({
   el: '#app',
